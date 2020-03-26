@@ -1,5 +1,5 @@
 # Hacking-With-Swift
-The projects I've completed from the book Hacking With Swift by Paul Hudsonm <br/>
+The projects I've completed from the book Hacking With Swift by Paul Hudson <br/>
 UPDATE: Felt that I had learn enough from the book so I started developing a chess app, "Chess.me". I might end up returning to the book after I finish my chess game; just have to wait and see.
 # Storm Viewer
 A basic UI that allows you to look at various photos of storms.
